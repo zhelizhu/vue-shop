@@ -1,1 +1,1 @@
-# voe-shop
+# vue-shop
